@@ -1,2 +1,14 @@
 # day1-linux-commands
-concepts like Basic Linux commands  and Git version control systems
+## Basic Linux Commands
+- pwd
+- ls
+- cd path
+- cd ../ 
+- mkdir foldername
+- rmdir foldername
+- rm filename
+- touch filename
+- nano filename
+- cat filename
+- python filename
+- clear
